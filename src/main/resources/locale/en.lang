@@ -1,19 +1,15 @@
-[tile]
-exampletile=Example Tile
-
-[object]
-exampleobject=Example Object
-
-[item]
-exampleitem=Example Item
-examplesword=Example Sword
-examplestaff=Example Staff
-
 [itemtooltip]
-examplestafftip=Shoots a homing, piercing projectile
+stonepathtip=Give a speed boost of <speedModifier>.
 
-[mob]
-examplemob=Example Mob
-
-[buff]
-examplebuff=Example Buff
+[tile]
+deepstonebrickpathtile=Deep Stone Brick Path
+deepstonepathtile=Deep Stone Path
+deepstonetiledpathtile=Deep Stone Tiled Path
+dungeonpathtile=Dungeon Path
+palmpathtile=Palm Path
+pinepathtile=Pine Path
+sandstonebrickpathtile=Sand Stone Brick Path
+snowstonebrickpathtile=Snow Stone Brick Path
+stonebrickpathtile=Stone Brick Path
+stonetiledpathtile=Stone Tiled Path
+swampstonebrickpathtile=Swamp Stone Brick Path
