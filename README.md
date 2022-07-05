@@ -9,16 +9,16 @@ No worries! This mod will solve your issue! This mod added 11 more path, from st
 
 All the best in base building!
 
-# Multiplayer
+## Multiplayer
 This mod needs to be downloaded for both host and client if playing in multiplayer.
 
-# Important Notes:
+## Important Notes:
 - May the floor be with you... Wait, may the path be with you!
 
-# GitHub
+## GitHub
 Bugs can be reported to [url=https://github.com/dianchia/VanillaPathPlus/issues]here[/url]
 
-# Collection
+## Collection
 Below are a few mod I had written:
 - [Defense Tower](https://github.com/dianchia/DefenseTower)
 - [Faster Path](https://github.com/dianchia/FasterPath)
