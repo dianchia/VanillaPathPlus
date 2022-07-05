@@ -20,7 +20,8 @@ Bugs can be reported to [url=https://github.com/dianchia/VanillaPathPlus/issues]
 
 # Collection
 Below are a few mod I had written:
-- [Increased Stack Size](https://steamcommunity.com/sharedfiles/filedetails/?id=2827931647)
-- [Faster Path](https://steamcommunity.com/sharedfiles/filedetails/?id=2829083798)
-- [Hide Settlers Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=2829306935&searchtext=)
-- [Vanilla Path +](https://steamcommunity.com/sharedfiles/filedetails/?id=2829993329)
+- [Defense Tower](https://github.com/dianchia/DefenseTower)
+- [Faster Path](https://github.com/dianchia/FasterPath)
+- [Hide Settlers Armor](https://github.com/dianchia/HideSettlersArmor)
+- [Increased Stack Size](https://github.com/dianchia/IncreasedStackSize)
+- [Vanilla Path +](https://github.com/dianchia/VanillaPathPlus)
