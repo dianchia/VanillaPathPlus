@@ -1,6 +1,3 @@
-[itemtooltip]
-stonepathtip=Give a speed boost of <speedModifier>.
-
 [tile]
 deepstonebrickpathtile=Deep Stone Brick Path
 deepstonepathtile=Deep Stone Path
