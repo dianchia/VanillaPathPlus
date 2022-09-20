@@ -1,9 +1,9 @@
 # Mod Information
-Mod version: 1.0
-Game version: 0.21.23
+Mod version: 1.0.2
+Game version: 0.21.24
 
 # Vanilla Path +
-Path makes you walk faster, and with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2829083798]the other mod[/url] I wrote, it makes you walk a lot faster 😉
+Path makes you walk faster, and with [the other mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2829083798) I wrote, it makes you walk a lot faster 😉
 So... it's normal that you would build your base full of path right? But with the current existing 5 paths, it is hard to match them with your base theme.
 No worries! This mod will solve your issue! This mod added 11 more path, from stone brick path to dungeon path, all the floor you have, there is a path for it!
 
@@ -16,12 +16,7 @@ This mod needs to be downloaded for both host and client if playing in multiplay
 - May the floor be with you... Wait, may the path be with you!
 
 ## GitHub
-Bugs can be reported to [url=https://github.com/dianchia/VanillaPathPlus/issues]here[/url]
+Bugs can be reported to [here](https://github.com/dianchia/VanillaPathPlus/issues)
 
 ## Collection
-Below are a few mod I had written:
-- [Defense Tower](https://github.com/dianchia/DefenseTower)
-- [Faster Path](https://github.com/dianchia/FasterPath)
-- [Hide Settlers Armor](https://github.com/dianchia/HideSettlersArmor)
-- [Increased Stack Size](https://github.com/dianchia/IncreasedStackSize)
-- [Vanilla Path +](https://github.com/dianchia/VanillaPathPlus)
+[Here](https://github.com/dianchia/Necesse-Mods) are a few mods that I wrote
