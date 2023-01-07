@@ -1,6 +1,6 @@
 # Mod Information
-Mod version: 1.0.3
-Game version: 0.21.25
+Mod version: 1.0.4
+Game version: 0.21.27
 
 # Vanilla Path +
 Path makes you walk faster, and with [the other mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2829083798) I wrote, it makes you walk a lot faster 😉
@@ -18,6 +18,7 @@ This mod needs to be downloaded for both host and client if playing in multiplay
 ## Update Notes:
 - v1.0.2 - Updated to game version 0.21.24
 - v1.0.3 - Updated to game version 0.21.25
+- v1.0.4 - Updated to game version 0.21.27
 
 ## GitHub
 Bugs can be reported to [here](https://github.com/dianchia/VanillaPathPlus/issues)
